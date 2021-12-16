@@ -1,0 +1,35 @@
+html body{
+  background-color: #2f455c;
+  color: #f4f3ed;
+  text-align: center;
+  display: inline-block;
+}
+
+h2 {
+  color: #34f5c2;
+}
+
+select {
+    display: block;
+    padding: 4px;
+    margin-top: 30px;
+    position: center;
+}
+
+select#mode-select { 
+  background-color: #34f5c2;
+  border: none;
+  -webkit-text-fill-color: #2f455c;
+  padding: 12px 32px;
+  text-decoration: none;
+  margin: 10px 2px;
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+ }
+
+label { 
+  color: white;
+  padding: 12px 32px;
+  text-decoration: none;
+ }
